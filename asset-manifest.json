@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wordhuntsolver2/static/css/main.c173198f.chunk.css",
+    "main.js": "/wordhuntsolver2/static/js/main.701add51.chunk.js",
+    "main.js.map": "/wordhuntsolver2/static/js/main.701add51.chunk.js.map",
+    "runtime-main.js": "/wordhuntsolver2/static/js/runtime-main.0a121785.js",
+    "runtime-main.js.map": "/wordhuntsolver2/static/js/runtime-main.0a121785.js.map",
+    "static/js/2.e1a608b7.chunk.js": "/wordhuntsolver2/static/js/2.e1a608b7.chunk.js",
+    "static/js/2.e1a608b7.chunk.js.map": "/wordhuntsolver2/static/js/2.e1a608b7.chunk.js.map",
+    "static/js/3.8a126dd8.chunk.js": "/wordhuntsolver2/static/js/3.8a126dd8.chunk.js",
+    "static/js/3.8a126dd8.chunk.js.map": "/wordhuntsolver2/static/js/3.8a126dd8.chunk.js.map",
+    "index.html": "/wordhuntsolver2/index.html",
+    "static/css/main.c173198f.chunk.css.map": "/wordhuntsolver2/static/css/main.c173198f.chunk.css.map",
+    "static/js/2.e1a608b7.chunk.js.LICENSE.txt": "/wordhuntsolver2/static/js/2.e1a608b7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wordhuntsolver2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a121785.js",
+    "static/js/2.e1a608b7.chunk.js",
+    "static/css/main.c173198f.chunk.css",
+    "static/js/main.701add51.chunk.js"
+  ]
+}
